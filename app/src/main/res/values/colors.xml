@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tech_bg_start">#141E30</color> <color name="tech_bg_end">#243B55</color>   <color name="tech_accent_cyan">#00E5FF</color> <color name="tech_card_dark">#1F2937</color> <color name="tech_text_primary">#FFFFFF</color> <color name="tech_text_secondary">#B0BEC5</color> <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
